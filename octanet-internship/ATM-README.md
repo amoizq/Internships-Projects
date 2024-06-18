@@ -1,10 +1,10 @@
-# Python Internship Project at Octanet 🐍
+# Python Internship Project at [OctaNet](https://www.linkedin.com/company/octanetsolutions/posts/?feedView=all) 🐍
 
 ![Octanet](https://img.shields.io/badge/Octanet-Internship-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-Development-yellow?style=for-the-badge)
 ![ATM Interface](https://img.shields.io/badge/ATM%20Interface-Project-orange?style=for-the-badge)
 
-Welcome to my Python Internship project repository at Octanet! 🚀
+Welcome to my Python Internship project repository at OctaNet! 🚀
 
 ## Project Overview
 
