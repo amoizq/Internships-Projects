@@ -1,3 +1,8 @@
+# ATM Interface Simulation
+# Author: Abdul Moiz Qureshi
+# Description: This script simulates the functionality of an ATM system,
+# including user authentication, transaction handling, and user interaction.
+
 import time
 import sys
 
