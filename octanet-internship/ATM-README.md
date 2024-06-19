@@ -54,3 +54,7 @@ Thank you for visiting my repository and following along with my internship jour
 ---
 
 Made with ❤️ in Pakistan
+
+---
+
+**Watch My LinkedIn Video Explanation**: [ATM Interface Project](https://www.linkedin.com/feed/update/urn:li:ugcPost:7209001288041189376/)
